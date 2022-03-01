@@ -8,7 +8,7 @@
 
 https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
 
-### Running Examples
+
 - If you are downloading the zip file, unzip the file
 - Open Command Prompt and Change directory to folder containing pom.xml
 - Run command "mvn tomcat7:run"
